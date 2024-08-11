@@ -32,15 +32,21 @@ Python 3.7 or later. The dependencies are listed in the requirements.txt file.
 
 3. Install the required packages:
 
-    ```pip install -r requirements.txt```
+    ```
+   pip install -r requirements.txt
+    ```
 
-4. Run the script:
+5. Run the script:
 
-    ```python downloader.py```
+    ```
+   python downloader.py
+    ```
 
-5. Input the YouTube URL when prompted:
+7. Input the YouTube URL when prompted:
 
-    ```Enter YouTube video URL: <Your YouTube URL here>```
+    ```
+   Enter YouTube video URL: <Your YouTube URL here>
+    ```
 
 The downloaded files will be saved in your ~/Downloads folder by default.
 
