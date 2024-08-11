@@ -3,7 +3,7 @@ from pytubefix.cli import on_progress
 import os
 
 
-def download_youtube_video(url, dl_path, resolution="720p"):
+def download_youtube_video(url, dl_path, resolution="1080p"):
     try:
         yt = YouTube(
             url,
