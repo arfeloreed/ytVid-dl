@@ -39,7 +39,7 @@ Python 3.7 or later. The dependencies are listed in the requirements.txt file.
 5. Run the script:
 
     ```
-   python downloader.py
+   python3 app.py
     ```
 
 7. Input the YouTube URL when prompted:
